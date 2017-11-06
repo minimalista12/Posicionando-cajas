@@ -1,0 +1,57 @@
+
+#cuadritomorado {
+	position: relative;
+	background-color: purple;
+	width: 152px;
+	height: 151px;
+	margin-left: 230px;
+	margin-top: 109px;
+}
+
+
+#cuadrorojo {
+	position: absolute;
+	margin-top: -81px;
+	margin-left: 150px;
+	width: 300px;
+	height: 300px;
+	background-color: red;
+}
+
+#cuadrititoamarillo {
+	position: absolute;
+	margin-top: -151px;
+	margin-left: 230px;
+	width: 75px;
+	height: 75px;
+	background-color: yellow;
+}
+
+
+#cuadroazul {
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 100px;
+	background-color: blue;
+	width: 302px;
+	height: 300px;
+
+	}
+
+#cuadritoverde {
+	position: absolute;
+	background-color: green;
+	width: 154px;
+	height: 152px;
+	margin-left: 225px;
+	margin-top: 180px;
+}
+
+#cuadrititonegro {
+	position:absolute;
+	background-color: black;
+	width: 75px;
+	height: 75px;
+	margin-left: 150px;
+	margin-top: 100px;
+}
